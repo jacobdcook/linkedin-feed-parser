@@ -1,0 +1,21 @@
+# Personal feed data - never commit these
+delete.txt
+*.html
+*.htm
+
+# Parser output files
+feed_readable.txt
+feed_posts.json
+feed_posts.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Desktop launcher (local only)
+*.desktop
+
+# OS
+.DS_Store
+Thumbs.db
